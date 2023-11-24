@@ -1,0 +1,51 @@
+body{
+    padding-right: 45% ;
+    display: flex;
+    
+}
+.container{
+    margin: 10px;
+    border: 12px;
+}
+.three{
+    border-radius: 10px;
+    padding: 5px;
+    width: 250px;
+}
+.two{
+    text-align: center;
+}
+.ten{
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    width: 550px;
+}
+.way{
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    width: 655px;
+}
+.news{
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    width: 550px;
+}
+.thre{
+    border-radius: 10px;
+    padding: 5px;
+    width: 320px;
+}
+.hh{
+    border-radius: 10px;
+    padding: 5px;
+    width: 320px;
+}
+.ww{
+    padding: 70px;
+    width: 560px;
+}
+
+
